@@ -1,0 +1,17 @@
+dotenv
+requests_oauthlib
+oauthlib
+google_auth_oauthlib
+google-api-python-client
+langdetect
+flake8
+black
+sphinx
+sphinx_rtd_theme
+loguru
+pytest
+sentence_transformers
+scikit-learn
+numpy
+emoji
+dearpygui

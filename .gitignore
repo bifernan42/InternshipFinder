@@ -1,0 +1,7 @@
+assets
+tests
+data
+logs
+secrets
+bin
+.env
